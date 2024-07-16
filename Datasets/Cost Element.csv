@@ -1,0 +1,255 @@
+﻿Cost_Element_Cost_element_name,Cost_Element_Cost_Element_Group,Cost_Element_Cost_Element_Sub_Group
+3rd Party Marketing Data,Other,Other
+Adjustments,Labor,Internal Labor
+Adjustments,Shared Services,Outbound Allocations
+Admin,Labor,Internal Labor
+Administrative,Shared Services,Inbound Allocations
+Administrative Fees,Shared Services,Outbound Allocations
+Administrative Other,Administrative,Administrative
+Administrative Service,Shared Services,Outbound Allocations
+Administrative Support,Shared Services,Inbound Allocations
+Advertising,Other,Other
+Allowances,Labor,Internal Labor
+Analytical,Shared Services,Inbound Allocations
+ATL Adjustments,Administrative,Administrative
+Audit Fees,Other,Other
+Auto Insurance,Other,Vehicles
+Awards,Labor,Internal Labor
+Bank Charges,Other,Other
+Benefits,Labor,Internal Labor
+Billing,Labor,Internal Labor
+Bonuses,Labor,External Labor
+Bonuses,Labor,Internal Labor
+BTL Adjustments,Shared Services,Inbound Allocations
+BU Expenses,Shared Services,Inbound Allocations
+BUE,Shared Services,Inbound Allocations
+Business Gifts,Other,Other
+Business Gifts (Other),Other,Other
+Career Development,Other,Training
+Charitable Contributions,Other,Other
+Clerical Materials,Other,Supplies
+College Relations,Other,Moving
+Companion Travel,Other,Travel
+Computer Hardware,Hardware & Software,Hardware
+Computer Rental,Hardware & Software,Hardware
+Conference,Other,Travel
+Conferences,Other,Other
+Conferences,Other,Training
+Contingent,Labor,Internal Labor
+Contract Labor Charges for Software Development,CAPEX,CAPEX
+Contractors,Labor,External Labor
+Control,Hardware & Software,Hardware Maintenance
+Corporate Air Travel,Other,Travel
+Customer Channel,Other,Other
+Customer Events,Other,Other
+Customer Meetings,Other,Other
+Direct Labor,Shared Services,Outbound Allocations
+Distribution,Other,Other
+Domestic Travel,Other,Travel
+DPE,Other,Other
+Employee (Other),Other,Other
+Employee Activities,Other,Other
+Employee Benefits,Labor,Internal Labor
+Employee Pharmacy,Other,Other
+Employee Transport,Labor,Internal Labor
+Employee Wellness,Labor,Internal Labor
+Equity,Labor,Internal Labor
+Exhibits,Other,Other
+Field Engineering,Hardware & Software,Hardware Maintenance
+Fines,Other,Other
+Fixed Assets,Depr & Amort,Depreciation
+Fixed Charges,Shared Services,Outbound Allocations
+Food Charges,Other,Other
+Food Expense,Other,Other
+FP&A,Shared Services,Inbound Allocations
+Freight,Other,Other
+Freight In,Other,Other
+Fringe Benefits Tax,Labor,Internal Labor
+Fuel Oil,Other,Other
+G&A,Shared Services,Inbound Allocations
+Gear,Other,Other
+Governance,Labor,External Labor
+Hazard Pay,Labor,Internal Labor
+HR,Shared Services,Inbound Allocations
+Indemnification and Separation Allowance,Other,Severance
+Indirect Materials,Other,Supplies
+Individual Performance Recognition,Other,Employee Performance
+Insurance,Labor,Internal Labor
+Insurance,Other,Vehicles
+Interest,Other,Vehicles
+Internal,Other,Training
+Internal Labor CAPEX,CAPEX,CAPEX
+International Travel,Other,Travel
+Internships,Other,Other
+Inventory,Other,Other
+IT,Shared Services,Inbound Allocations
+Labor,CAPEX,CAPEX
+Laundry,Other,Other
+Lease,Depr & Amort,Amortization
+Lease,Other,Vehicles
+Leasing,Other,Other
+Legal,Other,Legal
+Legal Expense,Other,Other
+Legal Services,Other,Legal
+License Fees,Other,Other
+LOS,Other,Severance
+M&E-100% Deductible,Other,Travel
+M&E-3rd Party,Other,Travel
+M&E-Nondeductible,Other,Travel
+M&E-Other,Other,Travel
+Machine/Equipment Rental,Hardware & Software,Hardware
+Maintenance and Repairs,Hardware & Software,Hardware Maintenance
+Manufacturing Materials,Other,Other
+Marketing Campaigns,Other,Other
+Marketing Research,Other,Other
+Matching,Other,Other
+Materials,Other,Other
+Materials,Other,Supplies
+Mechanical Equipment,Hardware & Software,Hardware Maintenance
+Memberships,Other,Other
+Messenger Services,Other,Other
+Misc. Credits - 2,Other,Other
+Misc. Credits - 3,Other,Other
+Miscellaneous,Labor,Internal Labor
+Miscellaneous Credits - 1,Other,Other
+Miscellaneous Credits - 2,Other,Other
+Moving Expenses - NT,Other,Moving
+Moving Expenses - Taxable,Other,Moving
+National Sales Meeting,Other,Other
+NBE,Shared Services,Inbound Allocations
+Network Equipment Rental,Hardware & Software,Hardware
+Non CAPEX Equipment,Hardware & Software,Hardware
+Non product,Hardware & Software,Hardware Maintenance
+Off Site Events,Other,Recognition
+Office Cleaning,Other,Other
+Office Rental,Other,Other
+Office Services,Labor,External Labor
+Office Supplies,Other,Supplies
+On Site Events,Other,Recognition
+Other ( - Tax ),Labor,Internal Labor
+Other ( + Tax ),Labor,Internal Labor
+Other Awards,Other,Recognition
+Other Bonuses,Labor,Internal Labor
+Other Charges,Shared Services,Outbound Allocations
+Other Events,Other,Other
+Other Expenses,Other,Other
+Other Inbound,Shared Services,Inbound Allocations
+Other Labor Expenses,Labor,Internal Labor
+Other Miscellaneous,Other,Other
+Other Miscellaneous - Accrual,Other,Other
+Other Miscellaneous - Nonordinary,Other,Other
+Other Miscellaneous - Property Management,Other,Other
+Other Miscellaneous Expense,Other,Other
+Other Outbound,Shared Services,Outbound Allocations
+Other Supplies,Other,Supplies
+Outside Repairs - Cars,Other,Vehicles
+Outside Services,Labor,External Labor
+Outsourcing,Labor,External Labor
+Overtime,Labor,External Labor
+Parts,Other,Other
+Patent & Trademark,Other,Legal
+Payroll Taxes - Extra,Labor,Internal Labor
+Payroll Taxes - Income Tax,Labor,Internal Labor
+Payroll Taxes - Non-Domestic,Labor,Internal Labor
+Payroll Taxes - Other,Labor,Internal Labor
+Payroll Taxes - Retirement,Labor,Internal Labor
+Payroll Taxes - Salaries,Labor,Internal Labor
+Payroll Taxes - Social,Labor,Internal Labor
+Payroll Taxes - Variable Comp,Labor,Internal Labor
+Penalties,Other,Other
+PMO,CAPEX,CAPEX
+Postage,Other,Other
+Product,Hardware & Software,Hardware Maintenance
+Professional Journal,Other,Training
+Professional Services,CAPEX,CAPEX
+Professional Services,Labor,External Labor
+Profit Sharing,Labor,Internal Labor
+Project Expense,Other,Project Expenses
+Projects - Purchases,CAPEX,CAPEX
+Projects - Transfers,Shared Services,Outbound Allocations
+Promotion,Other,Other
+Promotional Literature,Other,Other
+Property Taxes,Other,Taxes
+Purchased Software,Hardware & Software,Software
+Recruiting,Other,Other
+Recruiting,Other,Other
+Recurring,Other,Other
+Registration Management,Other,Other
+Regular Salaries And Wages,Labor,Internal Labor
+Relocation Expenses,Other,Moving
+Rent,Other,Other
+Rented Equipment,Shared Services,Inbound Allocations
+Reporting,Other,Other
+Retail Estate Gain/Loss,Other,Other
+Retirement Medical,Labor,Internal Labor
+Retirement Plan Match,Labor,Internal Labor
+Safety,Other,Other
+Salaries Deductions - Other,Other,Other
+Salaries Deductions Car,Other,Vehicles
+Salary,Labor,Internal Labor
+Sales Incentive Comp,Labor,Internal Labor
+Sales Incentive Program,Other,Other
+Sales Meeting Expense,Other,Other
+Sales Meetings,Other,Other
+Sales Promotion,Other,Other
+Savings Plan,Labor,Internal Labor
+Security,Other,Other
+Seminars,Other,Other
+Separation Expense,Other,Travel
+Servers Rental,Hardware & Software,Hardware
+Service Awards,Other,Recognition
+Service Contracts,Hardware & Software,Hardware Maintenance
+Services,Other,Other
+Settlements,Other,Project Expenses
+Shipments,Other,Other
+Shops,Shared Services,Outbound Allocations
+Snacks,Other,Other
+Software,Depr & Amort,Amortization
+Software Maintenance,Hardware & Software,Software Maintenance
+Speakers,Labor,External Labor
+Speakers Program,Other,Other
+Storage Rental,Hardware & Software,Hardware
+Sub Contract Labor,Labor,External Labor
+Subscriptions,Other,Other
+Subscriptions and Reference Material,Other,Other
+Supplies,Other,Supplies
+Support,Other,Other
+Taxes - General,Other,Taxes
+Team Performance,Other,Recognition
+Telecom,Other,Telecomm
+Telecom Services,Other,Telecomm
+Telecommunication,Other,Telecomm
+Telephone,Other,Telecomm
+Temporary Transfers,Labor,Internal Labor
+Temps,Labor,Internal Labor
+Time Charges - Activities,Shared Services,Outbound Allocations
+Tips,Other,Other
+Training,Other,Training
+Training Allowance,Other,Training
+Training Assistance,Other,Training
+Training Materials,Other,Training
+Transportation - Air,Other,Other
+Transportation - Marketing,Other,Other
+Transportation - Miscellaneous,Other,Other
+Transportation - Motor Freight,Other,Other
+Transportation - Other,Other,Other
+Travel Allowance,Other,Travel
+Travel Allowance - Cash Adjustment,Other,Travel
+Travel Expense,Other,Travel
+Travel Expense-Hotel,Other,Travel
+Unscheduled Overtime,Labor,Internal Labor
+Utilities,Other,Other
+Utilities,Other,Other
+Vacation,Labor,Internal Labor
+Vacation Accrual,Labor,Internal Labor
+Variable Salaries And Wages,Labor,Internal Labor
+Vehicle - Travel,Other,Travel
+Vehicle Fuel,Other,Vehicles
+Vehicle Maintenance,Other,Vehicles
+Vehicle National Tax,Other,Vehicles
+Vehicle Rent,Other,Vehicles
+Vehicle Rent - Employees,Other,Vehicles
+Vendor,Hardware & Software,Hardware Maintenance
+Waste Disposal,Other,Other
+Workers Comp,Labor,Internal Labor
+
